@@ -1,0 +1,15 @@
+/Users/lisa/Desktop/ZZ/bin/Debug/net6.0/ZZ
+/Users/lisa/Desktop/ZZ/bin/Debug/net6.0/ZZ.deps.json
+/Users/lisa/Desktop/ZZ/bin/Debug/net6.0/ZZ.runtimeconfig.json
+/Users/lisa/Desktop/ZZ/bin/Debug/net6.0/ZZ.dll
+/Users/lisa/Desktop/ZZ/bin/Debug/net6.0/ZZ.pdb
+/Users/lisa/Desktop/ZZ/obj/Debug/net6.0/ZZ.csproj.AssemblyReference.cache
+/Users/lisa/Desktop/ZZ/obj/Debug/net6.0/ZZ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisa/Desktop/ZZ/obj/Debug/net6.0/ZZ.AssemblyInfoInputs.cache
+/Users/lisa/Desktop/ZZ/obj/Debug/net6.0/ZZ.AssemblyInfo.cs
+/Users/lisa/Desktop/ZZ/obj/Debug/net6.0/ZZ.csproj.CoreCompileInputs.cache
+/Users/lisa/Desktop/ZZ/obj/Debug/net6.0/ZZ.dll
+/Users/lisa/Desktop/ZZ/obj/Debug/net6.0/refint/ZZ.dll
+/Users/lisa/Desktop/ZZ/obj/Debug/net6.0/ZZ.pdb
+/Users/lisa/Desktop/ZZ/obj/Debug/net6.0/ZZ.genruntimeconfig.cache
+/Users/lisa/Desktop/ZZ/obj/Debug/net6.0/ref/ZZ.dll
